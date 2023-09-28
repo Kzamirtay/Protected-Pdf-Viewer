@@ -12517,7 +12517,7 @@ class BasePreferences {
     "sidebarViewOnLoad": -1,
     "scrollModeOnLoad": -1,
     "spreadModeOnLoad": -1,
-    "textLayerMode": 1,
+    "textLayerMode": 0,
     "viewerCssTheme": 0,
     "viewOnLoad": 0,
     "disableAutoFetch": false,
